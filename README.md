@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Richard Castro 
 
-🤖Hoje trabalho como Analista Desenvolvor Mobile Utilizando Xamarin e C# como Stack Principal
-🤓Estudando Phyton
+🤖Hoje trabalho como Analista Desenvolvedor Mobile Utilizando Xamarin e C# como Stack Principal
+🤓Estudando Desenvolvimento de jogos 2D&3D
 
 <a href="https://github.com/richardcastro10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardcastro10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
